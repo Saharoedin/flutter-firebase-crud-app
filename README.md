@@ -1,4 +1,4 @@
-# crud_app
+# CRUD APP WITH FLUTTER & FIREBASE
 
 A new Flutter project.
 
